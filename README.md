@@ -21,4 +21,14 @@ A simple and clean Todo List application built with React that allows users to c
 
 ---
 
-## Project Structure
+## How It Works
+
+- Each heading acts as a card
+- Each card contains:
+  - A list of items
+  - Input field to add new items
+  - Button to delete the entire heading
+- State is managed using useState
+
+---
+
